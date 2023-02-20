@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/argos/!svn/ver/589/cargos-lib
+END
+mkinstalldirs
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/argos/!svn/ver/68/cargos-lib/mkinstalldirs
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/argos/!svn/ver/589/cargos-lib/configure
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/argos/!svn/ver/589/cargos-lib/Makefile.in
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/argos/!svn/ver/66/cargos-lib/AUTHORS
+END
+depcomp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/argos/!svn/ver/67/cargos-lib/depcomp
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/argos/!svn/ver/588/cargos-lib/ChangeLog
+END
+Makefile.gdoc
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/argos/!svn/ver/457/cargos-lib/Makefile.gdoc
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/argos/!svn/ver/69/cargos-lib/config.guess
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/argos/!svn/ver/283/cargos-lib/README
+END
+config.sub
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/argos/!svn/ver/69/cargos-lib/config.sub
+END
+stamp-h1.in
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/argos/!svn/ver/66/cargos-lib/stamp-h1.in
+END
+stamp-h2.in
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/argos/!svn/ver/66/cargos-lib/stamp-h2.in
+END
+config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/argos/!svn/ver/569/cargos-lib/config.h.in
+END
+Makefile.gdoci
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/argos/!svn/ver/280/cargos-lib/Makefile.gdoci
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/argos/!svn/ver/589/cargos-lib/configure.ac
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/argos/!svn/ver/68/cargos-lib/INSTALL
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/argos/!svn/ver/66/cargos-lib/COPYING
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/argos/!svn/ver/283/cargos-lib/Makefile.am
+END
+missing
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/argos/!svn/ver/68/cargos-lib/missing
+END
+stamp-h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/argos/!svn/ver/66/cargos-lib/stamp-h
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/argos/!svn/ver/66/cargos-lib/NEWS
+END
+gdoc
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/argos/!svn/ver/280/cargos-lib/gdoc
+END
+aclocal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/argos/!svn/ver/589/cargos-lib/aclocal.m4
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/argos/!svn/ver/68/cargos-lib/install-sh
+END
+stamp-h.in
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/argos/!svn/ver/66/cargos-lib/stamp-h.in
+END

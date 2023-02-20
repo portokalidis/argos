@@ -1,0 +1,26 @@
+.TH "cargos_lib_mb_addr" 3 "0.1.2" "cargos\-lib" "cargos\-lib"
+.SH NAME
+cargos_lib_mb_addr
+.SH SYNOPSIS
+.B #include <cargos.h>
+.sp
+.BI "cargos_lib_ulong_t cargos_lib_mb_addr(cargos_lib_mb_t * " mb ", cargos_lib_addr_t " atype ");"
+.SH ARGUMENTS
+.IP "cargos_lib_mb_t * mb" 12
+ Memory block.
+.IP "cargos_lib_addr_t atype" 12
+ Memory address type
+.SH "DESCRIPTION"
+Return the starting memory address of the memory block. \n.I \"atype \"\nspecifies
+whether the physical (CARGOS_LIB_PHYS), or virtual (CARGOS_LIB_VIRT) address
+of the block is returned.
+.SH "RETURN VALUE"
+ Returns the starting memory address of the memory block.
+.SH "REPORTING BUGS"
+Report bugs to <porto_@users.sourceforge.net>.
+.SH COPYRIGHT
+Copyright \(co 2006 Georgios Portokalidis.
+.br
+Permission is granted to make and distribute verbatim copies of this
+manual provided the copyright notice and this permission notice are
+preserved on all copies.

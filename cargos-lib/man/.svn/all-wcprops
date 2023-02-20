@@ -1,0 +1,227 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/argos/!svn/ver/569/cargos-lib/man
+END
+cargos_lib_mb_has_nt.3
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/argos/!svn/ver/472/cargos-lib/man/cargos_lib_mb_has_nt.3
+END
+cargos_lib_csi_mbnext.3
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/argos/!svn/ver/569/cargos-lib/man/cargos_lib_csi_mbnext.3
+END
+cargos_lib_csi_open.3
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/argos/!svn/ver/569/cargos-lib/man/cargos_lib_csi_open.3
+END
+cargos_lib_nt_pkt.3
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/argos/!svn/ver/444/cargos-lib/man/cargos_lib_nt_pkt.3
+END
+cargos_lib_print_ulong.3
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/argos/!svn/ver/282/cargos-lib/man/cargos_lib_print_ulong.3
+END
+cargos_lib_mb_version.3
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/argos/!svn/ver/472/cargos-lib/man/cargos_lib_mb_version.3
+END
+cargos_lib_csi_close.3
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/argos/!svn/ver/569/cargos-lib/man/cargos_lib_csi_close.3
+END
+cargos_lib_csi_mbfirst.3
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/argos/!svn/ver/569/cargos-lib/man/cargos_lib_csi_mbfirst.3
+END
+cargos_lib_csi_mblock.3
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/argos/!svn/ver/569/cargos-lib/man/cargos_lib_csi_mblock.3
+END
+cargos_lib_nt_close.3
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/argos/!svn/ver/444/cargos-lib/man/cargos_lib_nt_close.3
+END
+cargos_lib_mb_tainted.3
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/argos/!svn/ver/472/cargos-lib/man/cargos_lib_mb_tainted.3
+END
+cargos_lib_csi_typestring.3
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/argos/!svn/ver/569/cargos-lib/man/cargos_lib_csi_typestring.3
+END
+cargos_lib_mb_print_hdr.3
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/argos/!svn/ver/472/cargos-lib/man/cargos_lib_mb_print_hdr.3
+END
+cargos_lib_csi_type.3
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/argos/!svn/ver/569/cargos-lib/man/cargos_lib_csi_type.3
+END
+cargos_lib_printalphanum.3
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/argos/!svn/ver/282/cargos-lib/man/cargos_lib_printalphanum.3
+END
+cargos_lib_csi_reg_tainted.3
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/argos/!svn/ver/569/cargos-lib/man/cargos_lib_csi_reg_tainted.3
+END
+cargos_lib_mb_addr.3
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/argos/!svn/ver/472/cargos-lib/man/cargos_lib_mb_addr.3
+END
+cargos_lib_csi_rego.3
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/argos/!svn/ver/569/cargos-lib/man/cargos_lib_csi_rego.3
+END
+cargos_lib_mb_dsize.3
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/argos/!svn/ver/472/cargos-lib/man/cargos_lib_mb_dsize.3
+END
+cargos_lib_csi_regs.3
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/argos/!svn/ver/569/cargos-lib/man/cargos_lib_csi_regs.3
+END
+cargos_lib_csi_regnidx.3
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/argos/!svn/ver/569/cargos-lib/man/cargos_lib_csi_regnidx.3
+END
+cargos_lib_printhex.3
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/argos/!svn/ver/282/cargos-lib/man/cargos_lib_printhex.3
+END
+cargos_lib_csi_regv.3
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/argos/!svn/ver/569/cargos-lib/man/cargos_lib_csi_regv.3
+END
+cargos_lib_csi_archstring.3
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/argos/!svn/ver/569/cargos-lib/man/cargos_lib_csi_archstring.3
+END
+cargos_lib_nt_open.3
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/argos/!svn/ver/444/cargos-lib/man/cargos_lib_nt_open.3
+END
+cargos_lib_create.3
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/argos/!svn/ver/282/cargos-lib/man/cargos_lib_create.3
+END
+cargos_lib_mb_ndata.3
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/argos/!svn/ver/472/cargos-lib/man/cargos_lib_mb_ndata.3
+END
+cargos_lib_mb_nsize.3
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/argos/!svn/ver/472/cargos-lib/man/cargos_lib_mb_nsize.3
+END
+cargos_lib_csi_print_mb.3
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/argos/!svn/ver/569/cargos-lib/man/cargos_lib_csi_print_mb.3
+END
+cargos_lib_csi_has_nt.3
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/argos/!svn/ver/569/cargos-lib/man/cargos_lib_csi_has_nt.3
+END
+cargos_lib_csi_arch.3
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/argos/!svn/ver/569/cargos-lib/man/cargos_lib_csi_arch.3
+END
+cargos_lib_nt_bytes.3
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/argos/!svn/ver/444/cargos-lib/man/cargos_lib_nt_bytes.3
+END
+cargos_lib_mb_data.3
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/argos/!svn/ver/472/cargos-lib/man/cargos_lib_mb_data.3
+END
+cargos_lib_csi_print_hdr.3
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/argos/!svn/ver/569/cargos-lib/man/cargos_lib_csi_print_hdr.3
+END
+cargos_lib_pkt_data.3
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/argos/!svn/ver/444/cargos-lib/man/cargos_lib_pkt_data.3
+END
+cargos_lib_error.3
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/argos/!svn/ver/282/cargos-lib/man/cargos_lib_error.3
+END
+cargos_lib_destroy.3
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/argos/!svn/ver/282/cargos-lib/man/cargos_lib_destroy.3
+END

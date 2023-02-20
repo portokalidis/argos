@@ -1,0 +1,28 @@
+.TH "cargos_lib_mb_ndata" 3 "0.1.2" "cargos\-lib" "cargos\-lib"
+.SH NAME
+cargos_lib_mb_ndata
+.SH SYNOPSIS
+.B #include <cargos.h>
+.sp
+.BI "int cargos_lib_mb_ndata(cargos_lib_mb_t * " mb ", uint32_t * " buf ", size_t " len ");"
+.SH ARGUMENTS
+.IP "cargos_lib_mb_t * mb" 12
+ Memory block.
+.IP "uint32_t * buf" 12
+ 32bit unsigned integer array to store net tracker data.
+.IP "size_t len" 12
+ The length of the array \n.I \"buf.\"\n
+.SH "DESCRIPTION"
+
+Read net tracker data for memory block \n.I \"mb \"\ninto the array \n.I \"buf. \"\nThis function reads as many as \n.I \"len \"\n32 bit integers from the memory block.
+.SH "RETURN VALUE"
+ Returns the number of net tracker integers read from the log 
+file for the specified memory block, or -1 on error.
+.SH "REPORTING BUGS"
+Report bugs to <porto_@users.sourceforge.net>.
+.SH COPYRIGHT
+Copyright \(co 2006 Georgios Portokalidis.
+.br
+Permission is granted to make and distribute verbatim copies of this
+manual provided the copyright notice and this permission notice are
+preserved on all copies.

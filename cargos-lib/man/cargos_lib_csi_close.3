@@ -1,0 +1,24 @@
+.TH "cargos_lib_csi_close" 3 "0.1.3" "cargos\-lib" "cargos\-lib"
+.SH NAME
+cargos_lib_csi_close
+.SH SYNOPSIS
+.B #include <cargos.h>
+.sp
+.BI "void cargos_lib_csi_close(cargos_lib_t * " inst ");"
+.SH ARGUMENTS
+.IP "cargos_lib_t * inst" 12
+ Library instance.
+.SH "DESCRIPTION"
+Close the Argos csi log associated with the library instance and free all
+allocated memory. You do not have to call this function if you call 
+@\n.B \"cargos_lib_destroy()\"\n. 
+You will have to call this function if you want to open another csi log 
+using the same library instance.
+.SH "REPORTING BUGS"
+Report bugs to <porto_@users.sourceforge.net>.
+.SH COPYRIGHT
+Copyright \(co 2006 Georgios Portokalidis.
+.br
+Permission is granted to make and distribute verbatim copies of this
+manual provided the copyright notice and this permission notice are
+preserved on all copies.

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/argos/!svn/ver/583/argos-replay/debian
+END
+control
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/argos/!svn/ver/583/argos-replay/debian/control
+END
+compat
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/argos/!svn/ver/583/argos-replay/debian/compat
+END
+changelog
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/argos/!svn/ver/583/argos-replay/debian/changelog
+END
+copyright
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/argos/!svn/ver/583/argos-replay/debian/copyright
+END
+rules
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/argos/!svn/ver/583/argos-replay/debian/rules
+END

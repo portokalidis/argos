@@ -1,0 +1,26 @@
+.TH "cargos_lib_csi_open" 3 "0.1.3" "cargos\-lib" "cargos\-lib"
+.SH NAME
+cargos_lib_csi_open
+.SH SYNOPSIS
+.B #include <cargos.h>
+.sp
+.BI "int cargos_lib_csi_open(cargos_lib_t * " inst ", const char * " fn ");"
+.SH ARGUMENTS
+.IP "cargos_lib_t * inst" 12
+ Library instance.
+.IP "const char * fn" 12
+ Csi log filename.
+.SH "DESCRIPTION"
+Open an Argos csi log and associate it with a library instance. It is
+required to call this, before using any of the cargos_lib_csi...() 
+functions.
+.SH "RETURN VALUE"
+ Returns 0 on success, or -1 on error.
+.SH "REPORTING BUGS"
+Report bugs to <porto_@users.sourceforge.net>.
+.SH COPYRIGHT
+Copyright \(co 2006 Georgios Portokalidis.
+.br
+Permission is granted to make and distribute verbatim copies of this
+manual provided the copyright notice and this permission notice are
+preserved on all copies.

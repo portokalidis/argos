@@ -1,0 +1,23 @@
+.TH "cargos_lib_mb_print_hdr" 3 "0.1.2" "cargos\-lib" "cargos\-lib"
+.SH NAME
+cargos_lib_mb_print_hdr
+.SH SYNOPSIS
+.B #include <cargos.h>
+.sp
+.BI "void cargos_lib_mb_print_hdr(cargos_lib_mb_t * " mb ");"
+.SH ARGUMENTS
+.IP "cargos_lib_mb_t * mb" 12
+ Memory block.
+.SH "DESCRIPTION"
+Print a informative summary for a memory block. The information printed are
+separated by tabs and are (from left to right) the following:
+Block version number, taint-ness flag, size of block, starting physicall and
+virtual address.
+.SH "REPORTING BUGS"
+Report bugs to <porto_@users.sourceforge.net>.
+.SH COPYRIGHT
+Copyright \(co 2006 Georgios Portokalidis.
+.br
+Permission is granted to make and distribute verbatim copies of this
+manual provided the copyright notice and this permission notice are
+preserved on all copies.

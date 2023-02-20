@@ -1,0 +1,29 @@
+.TH "cargos_lib_csi_mblock" 3 "0.1.3" "cargos\-lib" "cargos\-lib"
+.SH NAME
+cargos_lib_csi_mblock
+.SH SYNOPSIS
+.B #include <cargos.h>
+.sp
+.BI "cargos_lib_mb_t * cargos_lib_csi_mblock(cargos_lib_t * " inst ", cargos_lib_ulong_t " addr ", cargos_lib_addr_t " atype ");"
+.SH ARGUMENTS
+.IP "cargos_lib_t * inst" 12
+ Library instance.
+.IP "cargos_lib_ulong_t addr" 12
+ Memory address.
+.IP "cargos_lib_addr_t atype" 12
+ \n.I \"addr \"\ntype.
+.SH "DESCRIPTION"
+Return the memory block containing a physical or virtual address.
+The type of the address being looked up is specified by using 
+CARGOS_LIB_PHYS or CARGOS_LIB_VIRT.
+.SH "RETURN VALUE"
+ Returns the memory block containing the physical or virtual
+address, or NULL if no memory block was found.
+.SH "REPORTING BUGS"
+Report bugs to <porto_@users.sourceforge.net>.
+.SH COPYRIGHT
+Copyright \(co 2006 Georgios Portokalidis.
+.br
+Permission is granted to make and distribute verbatim copies of this
+manual provided the copyright notice and this permission notice are
+preserved on all copies.

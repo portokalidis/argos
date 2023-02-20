@@ -1,0 +1,28 @@
+2009-04-14 G Portokalidis
+carlog.c: Added options to print the contents of an arbitrary memory block, as
+well as to specify whether we want the binary data raw or in hex
+
+2007-01-18 M Koetter
+configure.ac: Added support for large files in Linux
+src/cargos-lic.csi.c: Fixed cargos_lib_csi_mbnext() to safely return NULL when 
+out of memory blocks
+
+2007-11-29 G Portokalidis <porto@few.vu.nl>
+cargos-lib-static.h: Added faulty_eip field in csi_log struct for version 2 
+argos logs
+cargos-lib-csi.c: PROCESS_REGS_OP() added support for reading in faulty_eip
+field
+cargos-lib-csi.c: Added cargos_lib_csi_feip() function to return faulty_eip
+value
+cargos-lib-csi.c: regprint_i386()/regprint_x86_64() updated to include
+faulty_eip
+cargos-lib-csi.h: Added declaration of cargos_lib_csi_feip()
+
+2007-04-13 G Portokalidis <porto@few.vu.nl>
+cargos-lib-static.h: struct cargos_lib_pkt - Added ethernet packet sequence 
+number
+carlog.c: print_eframe() - Added sequence number of printed packet
+cargos-lib-nt.h: Added declaration of cargos_lib_pkt_num(), function returning
+the sequence number of a packet
+cargos-lib-nt.c: Added definition of cargos_lib_pkt_num(). nt_next_ethpkt() now
+also stores ethernet packet sequence number

@@ -1,0 +1,32 @@
+.TH "cargos_lib_nt_pkt" 3 "0.1.1" "cargos\-lib" "cargos\-lib"
+.SH NAME
+cargos_lib_nt_pkt
+.SH SYNOPSIS
+.B #include <cargos.h>
+.sp
+.BI "cargos_lib_pkt_t * cargos_lib_nt_pkt(cargos_lib_t * " inst ", uint32_t " index ");"
+.SH ARGUMENTS
+.IP "cargos_lib_t * inst" 12
+ Library instance.
+.IP "uint32_t index" 12
+ The network index to look for.
+.SH "DESCRIPTION"
+Look for an ethernet frame in a net tracker log associated with a library
+instance. 
+
+It is important to note that network indices supplied by Argos are accurate
+to the byte. This means that a network index of 32 for a register, in reality
+implies that the 4 bytes loaded to the register could be anywhere between
+index 0 and index 64 in the net tracker log. This is because of some
+information loss due to some instructions that handle 8 or 16 bytes at once.
+.SH "RETURN VALUE"
+ Returns the ethernet frame containing the index, or NULL if 
+the index does not exist.
+.SH "REPORTING BUGS"
+Report bugs to <porto_@users.sourceforge.net>.
+.SH COPYRIGHT
+Copyright \(co 2006 Georgios Portokalidis.
+.br
+Permission is granted to make and distribute verbatim copies of this
+manual provided the copyright notice and this permission notice are
+preserved on all copies.

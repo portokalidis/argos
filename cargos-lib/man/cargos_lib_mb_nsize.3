@@ -1,0 +1,25 @@
+.TH "cargos_lib_mb_nsize" 3 "0.1.2" "cargos\-lib" "cargos\-lib"
+.SH NAME
+cargos_lib_mb_nsize
+.SH SYNOPSIS
+.B #include <cargos.h>
+.sp
+.BI "unsigned int cargos_lib_mb_nsize(cargos_lib_mb_t * " mb ");"
+.SH ARGUMENTS
+.IP "cargos_lib_mb_t * mb" 12
+ Memory block.
+.SH "DESCRIPTION"
+Return the size of net tracker data present for a memory block.
+The user can call this function before allocating a buffer to read net
+tracker data from the log.
+.SH "RETURN VALUE"
+ Returns the size of net tracker data in the memory block. In
+case no net tracker data are present, 0 is returned.
+.SH "REPORTING BUGS"
+Report bugs to <porto_@users.sourceforge.net>.
+.SH COPYRIGHT
+Copyright \(co 2006 Georgios Portokalidis.
+.br
+Permission is granted to make and distribute verbatim copies of this
+manual provided the copyright notice and this permission notice are
+preserved on all copies.

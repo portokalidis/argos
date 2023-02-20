@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/argos/!svn/ver/583/argos-replay/target-cris
+END
+mmu.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/argos/!svn/ver/583/argos-replay/target-cris/mmu.c
+END
+op.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/argos/!svn/ver/583/argos-replay/target-cris/op.c
+END
+op_template.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/argos/!svn/ver/583/argos-replay/target-cris/op_template.h
+END
+helper.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/argos/!svn/ver/583/argos-replay/target-cris/helper.c
+END
+crisv32-decode.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/argos/!svn/ver/583/argos-replay/target-cris/crisv32-decode.h
+END
+mmu.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/argos/!svn/ver/583/argos-replay/target-cris/mmu.h
+END
+exec.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/argos/!svn/ver/583/argos-replay/target-cris/exec.h
+END
+cpu.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/argos/!svn/ver/583/argos-replay/target-cris/cpu.h
+END
+op_mem.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/argos/!svn/ver/583/argos-replay/target-cris/op_mem.c
+END
+opcode-cris.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/argos/!svn/ver/583/argos-replay/target-cris/opcode-cris.h
+END
+op_helper.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/argos/!svn/ver/583/argos-replay/target-cris/op_helper.c
+END
+translate.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/argos/!svn/ver/583/argos-replay/target-cris/translate.c
+END

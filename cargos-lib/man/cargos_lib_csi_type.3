@@ -1,0 +1,26 @@
+.TH "cargos_lib_csi_type" 3 "0.1.3" "cargos\-lib" "cargos\-lib"
+.SH NAME
+cargos_lib_csi_type
+.SH SYNOPSIS
+.B #include <cargos.h>
+.sp
+.BI "cargos_lib_attack_t cargos_lib_csi_type(cargos_lib_t * " inst ");"
+.SH ARGUMENTS
+.IP "cargos_lib_t * inst" 12
+ Library instance.
+.SH "DESCRIPTION"
+Return the attack type described in the Argos csi log associated with the
+instance. Available attack types are: CARGOS_LIB_JMP,
+CARGOS_LIB_LJMP(deprecated), CARGOS_LIB_TSS,
+CARGOS_LIB_CALL, CARGOS_LIB_RET, CARGOS_LIB_CI, CARGOS_LIB_IRET,
+CARGOS_LIB_SYSEXIT, CARGOS_LIB_SYSRET (see also cargos_lib_attack_t).
+.SH "RETURN VALUE"
+ Returns the type of the attack described in the csi log.
+.SH "REPORTING BUGS"
+Report bugs to <porto_@users.sourceforge.net>.
+.SH COPYRIGHT
+Copyright \(co 2006 Georgios Portokalidis.
+.br
+Permission is granted to make and distribute verbatim copies of this
+manual provided the copyright notice and this permission notice are
+preserved on all copies.

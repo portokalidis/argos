@@ -1,0 +1,24 @@
+.TH "cargos_lib_mb_dsize" 3 "0.1.2" "cargos\-lib" "cargos\-lib"
+.SH NAME
+cargos_lib_mb_dsize
+.SH SYNOPSIS
+.B #include <cargos.h>
+.sp
+.BI "unsigned int cargos_lib_mb_dsize(cargos_lib_mb_t * " mb ");"
+.SH ARGUMENTS
+.IP "cargos_lib_mb_t * mb" 12
+ Memory block.
+.SH "DESCRIPTION"
+Return the size of a memory block. The size does not actually represent the
+amount of data stored within the log, but the size of the block as it would
+in RAM at the emulated system.
+.SH "RETURN VALUE"
+ Returns the size of the memory block.
+.SH "REPORTING BUGS"
+Report bugs to <porto_@users.sourceforge.net>.
+.SH COPYRIGHT
+Copyright \(co 2006 Georgios Portokalidis.
+.br
+Permission is granted to make and distribute verbatim copies of this
+manual provided the copyright notice and this permission notice are
+preserved on all copies.

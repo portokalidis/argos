@@ -1,0 +1,25 @@
+.TH "cargos_lib_csi_print_mb" 3 "0.1.3" "cargos\-lib" "cargos\-lib"
+.SH NAME
+cargos_lib_csi_print_mb
+.SH SYNOPSIS
+.B #include <cargos.h>
+.sp
+.BI "void cargos_lib_csi_print_mb(cargos_lib_t * " inst ");"
+.SH ARGUMENTS
+.IP "cargos_lib_t * inst" 12
+ Library instance.
+.SH "DESCRIPTION"
+Print a list of the memory blocks contained within a csi log.
+The information printed is aligned in tab separated columns, including a line
+with string descriptions of the following columns.
+The fields printed (from left to right) are the following:
+Block #, block version number, taint-ness flag, size, physicall and virtual
+address.
+.SH "REPORTING BUGS"
+Report bugs to <porto_@users.sourceforge.net>.
+.SH COPYRIGHT
+Copyright \(co 2006 Georgios Portokalidis.
+.br
+Permission is granted to make and distribute verbatim copies of this
+manual provided the copyright notice and this permission notice are
+preserved on all copies.

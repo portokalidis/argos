@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/argos/!svn/ver/589/cargos-lib/src
+END
+cargos-lib-csi.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/argos/!svn/ver/486/cargos-lib/src/cargos-lib-csi.c
+END
+cargos-lib-mb.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/argos/!svn/ver/472/cargos-lib/src/cargos-lib-mb.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/argos/!svn/ver/589/cargos-lib/src/Makefile.in
+END
+cargos-lib-nt.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/argos/!svn/ver/388/cargos-lib/src/cargos-lib-nt.c
+END
+cargos-lib.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/argos/!svn/ver/279/cargos-lib/src/cargos-lib.c
+END
+cargos-lib-csi.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/argos/!svn/ver/466/cargos-lib/src/cargos-lib-csi.h
+END
+cargos-lib-mb.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/argos/!svn/ver/283/cargos-lib/src/cargos-lib-mb.h
+END
+cargos-lib-nt.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/argos/!svn/ver/388/cargos-lib/src/cargos-lib-nt.h
+END
+cargos-lib.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/argos/!svn/ver/457/cargos-lib/src/cargos-lib.h
+END
+carlog.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/argos/!svn/ver/588/cargos-lib/src/carlog.c
+END
+malloc.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/argos/!svn/ver/86/cargos-lib/src/malloc.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/argos/!svn/ver/182/cargos-lib/src/Makefile.am
+END
+debug.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/argos/!svn/ver/76/cargos-lib/src/debug.h
+END
+cargos-lib-static.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/argos/!svn/ver/466/cargos-lib/src/cargos-lib-static.h
+END

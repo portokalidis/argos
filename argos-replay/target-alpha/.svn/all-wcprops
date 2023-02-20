@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/argos/!svn/ver/583/argos-replay/target-alpha
+END
+op.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/argos/!svn/ver/583/argos-replay/target-alpha/op.c
+END
+op_template.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/argos/!svn/ver/583/argos-replay/target-alpha/op_template.h
+END
+helper.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/argos/!svn/ver/583/argos-replay/target-alpha/helper.c
+END
+op_helper_mem.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/argos/!svn/ver/583/argos-replay/target-alpha/op_helper_mem.h
+END
+op_mem.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/argos/!svn/ver/583/argos-replay/target-alpha/op_mem.h
+END
+STATUS
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/argos/!svn/ver/583/argos-replay/target-alpha/STATUS
+END
+op_helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/argos/!svn/ver/583/argos-replay/target-alpha/op_helper.h
+END
+exec.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/argos/!svn/ver/583/argos-replay/target-alpha/exec.h
+END
+cpu.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/argos/!svn/ver/583/argos-replay/target-alpha/cpu.h
+END
+op_helper.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/argos/!svn/ver/583/argos-replay/target-alpha/op_helper.c
+END
+translate.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/argos/!svn/ver/583/argos-replay/target-alpha/translate.c
+END

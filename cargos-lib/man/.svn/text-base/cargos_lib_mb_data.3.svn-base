@@ -1,0 +1,28 @@
+.TH "cargos_lib_mb_data" 3 "0.1.2" "cargos\-lib" "cargos\-lib"
+.SH NAME
+cargos_lib_mb_data
+.SH SYNOPSIS
+.B #include <cargos.h>
+.sp
+.BI "int cargos_lib_mb_data(cargos_lib_mb_t * " mb ", unsigned char * " buf ", size_t " len ");"
+.SH ARGUMENTS
+.IP "cargos_lib_mb_t * mb" 12
+ Memory block.
+.IP "unsigned char * buf" 12
+ Character array buffer to store memory block data.
+.IP "size_t len" 12
+ The length of \n.I \"buf.\"\n
+.SH "DESCRIPTION"
+Read data for memory block \n.I \"mb \"\ninto the character array \n.I \"buf. \"\nThis function
+reads as many as \n.I \"len \"\nbytes from the memory block.
+.SH "RETURN VALUE"
+ Returns the number of bytes read from the log file for the
+specified memory block, or -1 on error.
+.SH "REPORTING BUGS"
+Report bugs to <porto_@users.sourceforge.net>.
+.SH COPYRIGHT
+Copyright \(co 2006 Georgios Portokalidis.
+.br
+Permission is granted to make and distribute verbatim copies of this
+manual provided the copyright notice and this permission notice are
+preserved on all copies.

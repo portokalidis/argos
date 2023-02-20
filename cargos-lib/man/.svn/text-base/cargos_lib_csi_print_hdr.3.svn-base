@@ -1,0 +1,62 @@
+.TH "cargos_lib_csi_print_hdr" 3 "0.1.3" "cargos\-lib" "cargos\-lib"
+.SH NAME
+cargos_lib_csi_print_hdr
+.SH SYNOPSIS
+.B #include <cargos.h>
+.sp
+.BI "void cargos_lib_csi_print_hdr(cargos_lib_t * " inst ");"
+.SH ARGUMENTS
+.IP "cargos_lib_t * inst" 12
+ Library instance.
+.SH "DESCRIPTION"
+Print a summary of a csi log header.
+The information printed include the log's timestamp and version number, the
+attack's type, the attacked architecture and CPU state at the time of the
+attack.
+.SH "AN EXAMPLE OF THE PRINTED INFORMATION IS SHOWN BELOW"
+.SH "NET TRACKER DATA"
+ YES
+
+VERSION         ARCH            TYPE            TIMESTAMP 		
+
+0x01            i386            RET             1160388566			
+
+
+EAX             ECX             EDX             EBX 
+
+0x00000000      0x006ffd1c      0x7665ff90      0x00000000 
+
+(0x00000000)    (0x00000000)    (0x00000000)    (0x00000000)
+
+[       747]    [       747]    [       747]    [       747] 
+
+
+ESP             EBP             ESI             EDI 
+
+0x006ff9f8      0x5a634b28      0x00000004      0x006ffa3c 
+
+(0x00000000)    (0x040679e4)    (0x00000000)    (0x00000000) 
+
+[       747]    [      8545]    [       747]    [       747] 
+
+
+EIP             EFLAGS 
+
+0x773242e0      0x00000202 
+
+(0x040679e8) 
+
+[8553]
+
+The information printed for each register include the value of the register
+0x773242e0, the RAM address where the contents of this register were loaded
+from (0x040679e8), and an index to the net tracker log pointing to a possible
+location of this data in that log.
+.SH "REPORTING BUGS"
+Report bugs to <porto_@users.sourceforge.net>.
+.SH COPYRIGHT
+Copyright \(co 2006 Georgios Portokalidis.
+.br
+Permission is granted to make and distribute verbatim copies of this
+manual provided the copyright notice and this permission notice are
+preserved on all copies.

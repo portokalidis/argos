@@ -1,0 +1,29 @@
+.TH "cargos_lib_csi_regv" 3 "0.1.3" "cargos\-lib" "cargos\-lib"
+.SH NAME
+cargos_lib_csi_regv
+.SH SYNOPSIS
+.B #include <cargos.h>
+.sp
+.BI "cargos_lib_ulong_t cargos_lib_csi_regv(cargos_lib_t * " inst ", cargos_lib_regidx_t " index ");"
+.SH ARGUMENTS
+.IP "cargos_lib_t * inst" 12
+ Library instance.
+.IP "cargos_lib_regidx_t index" 12
+ The register index.
+.SH "DESCRIPTION"
+Return the value of a register in the Argos csi log associtated with the
+instance. The registers' indices are as follows: EIP = -1,
+EAX = 0, ECX, EDX, EBX, ESP, EBP, ESI, EDI = 7. 
+In X86_64 architectures the 8 more general purpose registers are defined as
+follows: R8 = 8 .. R15 = 15.
+The macros CARGOS_LIB_EAX, etc can be used instead of an index.
+.SH "RETURN VALUE"
+ Returns the value of a resister.
+.SH "REPORTING BUGS"
+Report bugs to <porto_@users.sourceforge.net>.
+.SH COPYRIGHT
+Copyright \(co 2006 Georgios Portokalidis.
+.br
+Permission is granted to make and distribute verbatim copies of this
+manual provided the copyright notice and this permission notice are
+preserved on all copies.

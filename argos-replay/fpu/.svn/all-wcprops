@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/argos/!svn/ver/583/argos-replay/fpu
+END
+softfloat.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/argos/!svn/ver/583/argos-replay/fpu/softfloat.c
+END
+softfloat-native.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/argos/!svn/ver/583/argos-replay/fpu/softfloat-native.c
+END
+softfloat.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/argos/!svn/ver/583/argos-replay/fpu/softfloat.h
+END
+softfloat-macros.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/argos/!svn/ver/583/argos-replay/fpu/softfloat-macros.h
+END
+softfloat-native.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/argos/!svn/ver/583/argos-replay/fpu/softfloat-native.h
+END
+softfloat-specialize.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/argos/!svn/ver/583/argos-replay/fpu/softfloat-specialize.h
+END

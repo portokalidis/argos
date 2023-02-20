@@ -1,0 +1,22 @@
+.TH "cargos_lib_nt_close" 3 "0.1.1" "cargos\-lib" "cargos\-lib"
+.SH NAME
+cargos_lib_nt_close
+.SH SYNOPSIS
+.B #include <cargos.h>
+.sp
+.BI "void cargos_lib_nt_close(cargos_lib_t * " inst ");"
+.SH ARGUMENTS
+.IP "cargos_lib_t * inst" 12
+ Library instance.
+.SH "DESCRIPTION"
+Close the Argos net tracker log associated with the library instance and free
+all allocated memory. You need to call this function before calling
+\n.B \"cargos_lib_csi_close()\"\n.
+.SH "REPORTING BUGS"
+Report bugs to <porto_@users.sourceforge.net>.
+.SH COPYRIGHT
+Copyright \(co 2006 Georgios Portokalidis.
+.br
+Permission is granted to make and distribute verbatim copies of this
+manual provided the copyright notice and this permission notice are
+preserved on all copies.

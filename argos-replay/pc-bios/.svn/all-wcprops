@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/argos/!svn/ver/583/argos-replay/pc-bios
+END
+pxe-rtl8139.bin
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/argos/!svn/ver/583/argos-replay/pc-bios/pxe-rtl8139.bin
+END
+openbios-sparc32
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/argos/!svn/ver/583/argos-replay/pc-bios/openbios-sparc32
+END
+pxe-ne2k_pci.bin
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/argos/!svn/ver/583/argos-replay/pc-bios/pxe-ne2k_pci.bin
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/argos/!svn/ver/583/argos-replay/pc-bios/README
+END
+openbios-sparc64
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/argos/!svn/ver/583/argos-replay/pc-bios/openbios-sparc64
+END
+vgabios.diff
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/argos/!svn/ver/583/argos-replay/pc-bios/vgabios.diff
+END
+vgabios.bin
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/argos/!svn/ver/583/argos-replay/pc-bios/vgabios.bin
+END
+bios.diff
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/argos/!svn/ver/583/argos-replay/pc-bios/bios.diff
+END
+bios.bin
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/argos/!svn/ver/583/argos-replay/pc-bios/bios.bin
+END
+ohw.diff
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/argos/!svn/ver/583/argos-replay/pc-bios/ohw.diff
+END
+vgabios-cirrus.bin
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/argos/!svn/ver/583/argos-replay/pc-bios/vgabios-cirrus.bin
+END
+ppc_rom.bin
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/argos/!svn/ver/583/argos-replay/pc-bios/ppc_rom.bin
+END
+pxe-pcnet.bin
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/argos/!svn/ver/583/argos-replay/pc-bios/pxe-pcnet.bin
+END
+video.x
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/argos/!svn/ver/583/argos-replay/pc-bios/video.x
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/argos/!svn/ver/583/argos-replay/pc-bios/Makefile
+END

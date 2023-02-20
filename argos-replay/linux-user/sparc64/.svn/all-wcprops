@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/argos/!svn/ver/583/argos-replay/linux-user/sparc64
+END
+syscall_nr.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/argos/!svn/ver/583/argos-replay/linux-user/sparc64/syscall_nr.h
+END
+termbits.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/argos/!svn/ver/583/argos-replay/linux-user/sparc64/termbits.h
+END
+syscall.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/argos/!svn/ver/583/argos-replay/linux-user/sparc64/syscall.h
+END
+target_signal.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/argos/!svn/ver/583/argos-replay/linux-user/sparc64/target_signal.h
+END

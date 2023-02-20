@@ -1,0 +1,22 @@
+.TH "cargos_lib_error" 3 "0.1" "cargos\-lib" "cargos\-lib"
+.SH NAME
+cargos_lib_error
+.SH SYNOPSIS
+.B #include <cargos.h>
+.sp
+.BI "const char * cargos_lib_error(cargos_lib_t * " lib ");"
+.SH ARGUMENTS
+.IP "cargos_lib_t * lib" 12
+ Library instance.
+.SH "DESCRIPTION"
+Returns a description of the lib error
+.SH "RETURN VALUE"
+ Returns a string description of the last error.
+.SH "REPORTING BUGS"
+Report bugs to <porto_@users.sourceforge.net>.
+.SH COPYRIGHT
+Copyright \(co 2006 Georgios Portokalidis.
+.br
+Permission is granted to make and distribute verbatim copies of this
+manual provided the copyright notice and this permission notice are
+preserved on all copies.

@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/argos/!svn/ver/472/argos-lont
+END
+Signature.java
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/argos/!svn/ver/404/argos-lont/Signature.java
+END
+LontSigSubmit.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/argos/!svn/ver/288/argos-lont/LontSigSubmit.java
+END
+ResetTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/argos/!svn/ver/472/argos-lont/ResetTask.java
+END
+ArgosLontApp.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/argos/!svn/ver/404/argos-lont/ArgosLontApp.java
+END
+ArgosSiggenApp.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/argos/!svn/ver/218/argos-lont/ArgosSiggenApp.java
+END
+ArgosClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/argos/!svn/ver/184/argos-lont/ArgosClient.java
+END
+LontClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/argos/!svn/ver/404/argos-lont/LontClient.java
+END
+Unsigned.java
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/argos/!svn/ver/195/argos-lont/Unsigned.java
+END
+ClientProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/argos/!svn/ver/404/argos-lont/ClientProcessor.java
+END
+CsiLog.java
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/argos/!svn/ver/198/argos-lont/CsiLog.java
+END
+StickyPoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/argos/!svn/ver/216/argos-lont/StickyPoint.java
+END
+MemoryBlock.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/argos/!svn/ver/198/argos-lont/MemoryBlock.java
+END
+CustomDataInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/argos/!svn/ver/188/argos-lont/CustomDataInput.java
+END
+NetLog.java
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/argos/!svn/ver/197/argos-lont/NetLog.java
+END
+EthernetFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/argos/!svn/ver/193/argos-lont/EthernetFrame.java
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/argos/!svn/ver/404/argos-lont/Makefile
+END
